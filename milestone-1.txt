@@ -1,11 +1,39 @@
 MILESTONE 1
 
-This is where we can put all our milestone one stuff.
+Name: WHAT’S THE DISH?
 
-Test.
+Target Audience:
+-***People who entertain guests (i.e. make food for them)***
+-Moms who cook (upper-middle class) 
+-Dads too! (stay at home dads who cook)
+-Parents in general
+-Not just parents… also younger people, i.e. Brooklyn Hipsters who keep Vegan, Paleo, etc.
 
-Test 2.
+Problem Solved:
+-Helps people who need to entertain guests find recipes which cater the ever increasing amount of dietary restrictions/dietary lifestyles (i.e. vegan, paleo, gluten-free, vegetarian)
 
-Test 3.
+How it Meets Requirements:
+-A user makes an account on this website
+-User accounts contain
+	- RECIPES
+	- Name of user
+	- Profile picture
+	- A list of the dietary restrictions that they keep
+-RECIPES contain
+	- Name of the recipe
+	- Picture of the recipe
+	- recipe itself
+	- TAGS which tell what dietary restrictions this caters too (this is important)
+		#Vegan #Gluten-Free 
+		(should we give users the freedom to choose their own tags (i.e. #GirlsNightOut) or should they 		only be able to pick from a predetermined list of dietary types??)
 
-blahblahblah
+This website
+-allows users to create accounts 
+-allows users to upload data (recipes)
+-allows users to delete data (recipes)
+-involves a database for every user AND their corresponding recipe
+-the data on the web page will change when the user refreshes the page and friends upload new recipes (AJAX)
+
+How is it unique??
+- It is in the vein of sites like Pinterest and Soundcloud where users upload pictures and music, respectively. However, this site is unique because it is the first repository that pertains specifically to recipes and dietary restrictions. We think that this website is culturally relevant to the times because a) dietary restrictions/lifestyles are becoming more common and more varied and b) these days there is a big demand among consumers for “organic” and “artisan” foods. We think users will like being able to share and find the people’s home-cooked recipes rather than having to fall back on restaurants.
+
