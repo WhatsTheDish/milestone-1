@@ -1,41 +1,39 @@
 MILESTONE 1
 
-POOP
-
 Name: WHAT’S THE DISH?
 
 Target Audience:
--***People who entertain guests (i.e. make food for them)***
--Moms who cook (upper-middle class) 
--Dads too! (stay at home dads who cook)
--Parents in general
--Not just parents… also younger people, i.e. Brooklyn Hipsters who keep Vegan, Paleo, etc.
+
+Our target audience is individuals that entertain guests, specifically the home cook. This
+includes audiences such as parents and grandparents cooking for families and guests, as 
+well as individuals, perhaps younger, who entertain crowds of friends. The most important 
+thing is that the guests who our users invite are varied in their dietary restrictions. This
+concern is relevant because people are increasingly restricting their diets as more research 
+suggests that such restrictions are necessary to peoples health and dietary trends race 
+through the internet.
 
 Problem Solved:
--Helps people who need to entertain guests find recipes which cater the ever increasing amount of dietary restrictions/dietary lifestyles (i.e. vegan, paleo, gluten-free, vegetarian)
+
+Due the increasing amount and presence of dietary restrictions/dietary lifestyles (i.e. vegan, 
+paleo, gluten-free, vegetarian) those who entertain guests need a solution to find recipes 
+which cater the everyone they invite by searching for one recipe that works within many 
+different diets.
 
 How it Meets Requirements:
--A user makes an account on this website
--User accounts contain
-	- RECIPES
-	- Name of user
-	- Profile picture
-	- A list of the dietary restrictions that they keep
--RECIPES contain
-	- Name of the recipe
-	- Picture of the recipe
-	- recipe itself
-	- TAGS which tell what dietary restrictions this caters too (this is important)
-		#Vegan #Gluten-Free 
-		(should we give users the freedom to choose their own tags (i.e. #GirlsNightOut) or should they 		only be able to pick from a predetermined list of dietary types??)
 
-This website
--allows users to create accounts 
--allows users to upload data (recipes)
--allows users to delete data (recipes)
--involves a database for every user AND their corresponding recipe
--the data on the web page will change when the user refreshes the page and friends upload new recipes (AJAX)
+Create: Users will create an account that allows on which they can upload recipes as well as
+search through our entire database.
+
+Read: Our server will have a collection of recipes each connected to a particular user as well
+as the dietary restrictions that apply to it. This is what can be read by client side.
+
+Update: Each of these recipes can be accessed and changed by the user who created it.
+
+Delete: Users can also delete their recipes from the server.
+
+Recipes contain: Name of the recipe, picture of the meal, recipe itself, dietary restrictions in the form of tags, username of the user who submitted the recipe
 
 How is it unique??
-- It is in the vein of sites like Pinterest and Soundcloud where users upload pictures and music, respectively. However, this site is unique because it is the first repository that pertains specifically to recipes and dietary restrictions. We think that this website is culturally relevant to the times because a) dietary restrictions/lifestyles are becoming more common and more varied and b) these days there is a big demand among consumers for “organic” and “artisan” foods. We think users will like being able to share and find the people’s home-cooked recipes rather than having to fall back on restaurants.
+It is in the vein of sites like Pinterest and Soundcloud where users upload pictures and music, respectively. However, this site is unique because it is the first repository that pertains specifically to recipes and dietary restrictions. We think that this website is culturally relevant to the times because a) dietary restrictions/lifestyles are becoming more common and more varied and b) there is an increasing demand among consumers for “organic” and “artisan” foods. In conclusion there is a need for users to able to share and find the people’s home-cooked recipes rather than having to fall back on restaurants, and we would like to create the
+kind of platform where that can happen
 
